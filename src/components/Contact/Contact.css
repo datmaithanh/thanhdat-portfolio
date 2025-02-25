@@ -1,0 +1,9 @@
+.contact {
+  flex-direction: column;
+  
+}
+
+.contactme {
+  display: flex;
+  gap: 1rem;
+}
